@@ -9,7 +9,7 @@ import { PageResponse } from '../model/PageResponse';
 })
 export class FileStorageService {
 
-  private baseUrl: string = 'https://royal-impulse-production.up.railway.app/api';
+  private baseUrl: string = 'https://receptive-yarn-production.up.railway.app/api';
 
   private generateID(): number {
     // Gera um número aleatório entre 10000 e 99999
