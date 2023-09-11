@@ -1,4 +1,4 @@
-## 🌐 SUPERXML - Aplicação Frontend Angular 🚀 🔄 🌐
+##  SUPERXML - Aplicação Frontend Angular 🚀 🔄 🌐
 
 Codificação de Frontend para Teste EWare de aplicação  que se chama SUPERXML é uma aplicação frontend desenvolvida com Angular e Typescript para gerenciamento e visualização, edição e delação de dados XML. Já está integrada ao Backend que foi imppelementado em Java com SpringBoot.
 
@@ -42,31 +42,30 @@ Lista todos os arquivos carregados e fornece funcionalidades para download, edi�
 Instalação
 Para instalar e executar o projeto, siga os passos abaixo:
 
-bash
-Copy code
+
 ### Clone o repositório
-``
+```
 git clone [link-do-repositório]
-``
+```
 
 ### Navegue até o diretório do projeto
-``
+```
 cd [nome-do-diretório]
-``
+```
 
 ### Instale as dependências
-``
+```
 npm install
-``
+```
 
 ### Execute a aplicação
-``
+```
 ng serve
-``
+```
 Acesse a aplicação em 
-``
+```
 http://localhost:4200.
-``
+```
 
 🚀 Recursos
 Menu Hamburger: Facilita a navegação em dispositivos móveis.
@@ -79,24 +78,24 @@ Para instalar e executar o projeto, siga os passos abaixo:
 
 
 ### Clone o repositório
-``
+```
 git clone [link-do-repositório]
-``
+```
 
 ### Navegue até o diretório do projeto
-``
+```
 cd [nome-do-diretório]
-``
+```
 
 ### Instale as dependências
-``
+```
 npm install
-``
+```
 
 ### Execute a aplicação
-``
+```
 ng serve
-``
+```
 Acesse a aplicação em http://localhost:4200.
 
 
