@@ -44,18 +44,29 @@ Para instalar e executar o projeto, siga os passos abaixo:
 
 bash
 Copy code
-# Clone o repositório
+### Clone o repositório
+``
 git clone [link-do-repositório]
+``
 
-# Navegue até o diretório do projeto
+### Navegue até o diretório do projeto
+``
 cd [nome-do-diretório]
+``
 
-# Instale as dependências
+### Instale as dependências
+``
 npm install
+``
 
-# Execute a aplicação
+### Execute a aplicação
+``
 ng serve
-Acesse a aplicação em http://localhost:4200.
+``
+Acesse a aplicação em 
+``
+http://localhost:4200.
+``
 
 🚀 Recursos
 Menu Hamburger: Facilita a navegação em dispositivos móveis.
@@ -66,25 +77,31 @@ Visualização de XML: Analisa e exibe dados XML de uma maneira amigável ao usu
 Instalação
 Para instalar e executar o projeto, siga os passos abaixo:
 
-bash
-Copy code
-# Clone o repositório
+
+### Clone o repositório
+``
 git clone [link-do-repositório]
+``
 
-# Navegue até o diretório do projeto
+### Navegue até o diretório do projeto
+``
 cd [nome-do-diretório]
+``
 
-# Instale as dependências
+### Instale as dependências
+``
 npm install
+``
 
-# Execute a aplicação
+### Execute a aplicação
+``
 ng serve
+``
 Acesse a aplicação em http://localhost:4200.
 
 
-Vou atualizar a lista com as tecnologias que você mencionou:
 
-## Tecnologias Utilizadas 🛠️
+### Tecnologias Utilizadas 🛠️
 
 - ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white) - Framework de desenvolvimento frontend.
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) - Linguagem de programação.
