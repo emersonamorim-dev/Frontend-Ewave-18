@@ -1,6 +1,6 @@
 ##  SUPERXML - Aplicação Frontend Angular 🚀 🔄 🌐
 
-Codificação de Frontend para Teste EWare de aplicação  que se chama SUPERXML é uma aplicação frontend desenvolvida com Angular e Typescript para gerenciamento e visualização, edição e delação de dados XML. Já está integrada ao Backend que foi imppelementado em Java com SpringBoot.
+Codificação de Frontend para Teste EWare de aplicação  que se chama SUPERXML é uma aplicação frontend desenvolvida com Angular e Typescript para gerenciamento e visualização, edição e delação de dados XML. Já está integrada ao Backend que foi implementado em Java com SpringBoot.
 
 ## Service: FileStorageService
 Responsável por manipular ações relacionadas ao armazenamento de arquivos.
